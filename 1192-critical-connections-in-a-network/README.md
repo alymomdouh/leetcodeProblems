@@ -74,3 +74,4 @@ Once the dfs helper function has completed its traversal, we can return ans.
 Implementation:
 Javascript strangely runs significantly faster with a regular object rather than a Map().
 
+### <a href="https://dev.to/seanpgallivan/solution-critical-connections-in-a-network-51g0"> other important links</a>
