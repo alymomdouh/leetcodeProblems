@@ -5,22 +5,22 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> n = "32"
+<pre><strong>Input:</strong> n = "32"
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> 10 + 11 + 11 = 32
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><strong>Example 2:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> n = "82734"
+<pre><strong>Input:</strong> n = "82734"
 <strong>Output:</strong> 8
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><strong>Example 3:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> n = "27346209830709182346"
+<pre><strong>Input:</strong> n = "27346209830709182346"
 <strong>Output:</strong> 9
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
