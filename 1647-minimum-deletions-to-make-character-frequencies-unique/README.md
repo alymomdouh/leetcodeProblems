@@ -7,25 +7,25 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<pre><strong>Input:</strong> s = "aab"
+<pre style="position: relative;"><strong>Input:</strong> s = "aab"
 <strong>Output:</strong> 0
 <strong>Explanation:</strong> <code>s</code> is already good.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 2:</strong></p>
 
-<pre><strong>Input:</strong> s = "aaabbbcc"
+<pre style="position: relative;"><strong>Input:</strong> s = "aaabbbcc"
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> You can delete two 'b's resulting in the good string "aaabcc".
-Another way it to delete one 'b' and one 'c' resulting in the good string "aaabbc".</pre>
+Another way it to delete one 'b' and one 'c' resulting in the good string "aaabbc".<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 3:</strong></p>
 
-<pre><strong>Input:</strong> s = "ceabaacb"
+<pre style="position: relative;"><strong>Input:</strong> s = "ceabaacb"
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> You can delete both 'c's resulting in the good string "eabaab".
 Note that we only care about characters that are still in the string at the end (i.e. frequency of 0 is ignored).
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
