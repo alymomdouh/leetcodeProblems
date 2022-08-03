@@ -1,1 +1,1 @@
-​
+[link of mult way to solve it ](https://walkccc.me/LeetCode/problems/0729/)
