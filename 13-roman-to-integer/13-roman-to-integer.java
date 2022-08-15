@@ -13,6 +13,7 @@ class Solution {
             }
             if (4 * num < ans) ans -= num;
             else ans += num;
+            //ans += num;
         }
         return ans;
     }
