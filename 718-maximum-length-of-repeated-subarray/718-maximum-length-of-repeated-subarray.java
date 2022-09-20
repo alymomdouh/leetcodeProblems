@@ -1,4 +1,5 @@
- class Solution {
+//Naive Binary Search
+class Solution {
     public int findLength(int[] A, int[] B) {
         int lo = 0, hi = Math.min(A.length, B.length);
         while (lo < hi) {
