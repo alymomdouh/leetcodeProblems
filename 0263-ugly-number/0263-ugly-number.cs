@@ -20,6 +20,7 @@ public class Solution {
     }
     */
     // solution 2
+    /*
      public bool IsUgly(int n) {
           if (n <= 0) return false;
           if (n == 1) return true;
@@ -27,5 +28,15 @@ public class Solution {
           if (n % 3 == 0) return IsUgly(n / 3);
           if (n % 5 == 0) return IsUgly(n / 5);
           return false;
+     }
+     */
+     // solution 3
+     public bool IsUgly(int n) {
+         if (n <= 0) return false;
+          int[] divisors = { 2, 3, 5 };
+         foreach (int d in divisors) {
+            while (n % d == 0) n /= d;
+          }
+          return n == 1;
      }
 }
