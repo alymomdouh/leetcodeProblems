@@ -1,7 +1,5 @@
 public class Solution {
-//     public int ComputeArea(int ax1, int ay1, int ax2, int ay2, int bx1, int by1, int bx2, int by2) {
-        
-//     }
+ 
    public int ComputeArea(int A, int B, int C, int D, int E, int F, int G, int H) {
         int areaA = (C-A) * (D-B);
         int areaB = (G-E) * (H-F);
