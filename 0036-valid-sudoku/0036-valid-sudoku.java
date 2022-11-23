@@ -18,6 +18,7 @@ class Solution {
   }
 }
 */
+// solution 2
 public class Solution {
     public boolean isValidSudoku(char[][] board) {
         for(int i = 0; i < 9; i++){
