@@ -21,3 +21,27 @@ leetcode problems that solve in the website
 10|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/combine-two-tables/)|[175. Combine Two Tables](https://github.com/alymomdouh/leetcodeProblems/tree/master/0175-combine-two-tables)|[Union leftJoin](https://github.com/alymomdouh/leetcodeProblems/tree/master/0175-combine-two-tables)
 11|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/?envType=study-plan&id=sql-i)|[1581.Customer Who Visited but Did Not Make Any Transactions](https://github.com/alymomdouh/leetcodeProblems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions)|[Union NotIn COUNT GROUPBY](https://github.com/alymomdouh/leetcodeProblems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions)
 12|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/article-views-i/?envType=study-plan&id=sql-i)|[1148. Article Views I](https://github.com/alymomdouh/leetcodeProblems/tree/master/1148-article-views-i)|[DISTINCT ORDERBY](https://github.com/alymomdouh/leetcodeProblems/tree/master/1148-article-views-i)
+13|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/rising-temperature/?envType=study-plan&id=sql-i)|[197. Rising Temperature](https://github.com/alymomdouh/leetcodeProblems/tree/master/0197-rising-temperature)|[JOIN DATEDIFF](https://github.com/alymomdouh/leetcodeProblems/tree/master/0197-rising-temperature)
+14|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/sales-person/)|[607. Sales Person](https://github.com/alymomdouh/leetcodeProblems/tree/master/0607-sales-person)|[JOIN subquery NotIn](https://github.com/alymomdouh/leetcodeProblems/tree/master/0607-sales-person)
+15|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/employees-with-missing-information/?envType=study-plan&id=sql-i)|[1965. Employees With Missing Information](https://github.com/alymomdouh/leetcodeProblems/tree/master/1965-employees-with-missing-information)|[having subquery COUNT GROUPBY](https://github.com/alymomdouh/leetcodeProblems/tree/master/1965-employees-with-missing-information)
+16|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/big-countries/?envType=study-plan&id=sql-i)|[595. Big Countries](https://github.com/alymomdouh/leetcodeProblems/tree/master/0595-big-countries)|[having subquery](https://github.com/alymomdouh/leetcodeProblems/tree/master/0595-big-countries)
+17|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan&id=sql-i)|[1757. Recyclable and Low Fat Products](https://github.com/alymomdouh/leetcodeProblems/tree/master/1757-recyclable-and-low-fat-products)|[having subquery](https://github.com/alymomdouh/leetcodeProblems/tree/master/1757-recyclable-and-low-fat-products)
+18|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/customers-who-never-order/?envType=study-plan&id=sql-i)|[183. Customers Who Never Order](https://github.com/alymomdouh/leetcodeProblems/tree/master/183-customers-who-never-order) |[having subquery NotIn](https://github.com/alymomdouh/leetcodeProblems/tree/master/183-customers-who-never-order)
+19|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/find-customer-referee/?envType=study-plan&id=sql-i)|[584. Find Customer Referee](https://github.com/alymomdouh/leetcodeProblems/tree/master/0584-find-customer-referee)|[having](https://github.com/alymomdouh/leetcodeProblems/tree/master/0584-find-customer-referee)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
