@@ -31,20 +31,7 @@ leetcode problems that solve in the website
 20|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/daily-leads-and-partners/)|[1693. Daily Leads and Partners](https://github.com/alymomdouh/leetcodeProblems/tree/master/1693-daily-leads-and-partners)|[having count distinct GROUPBY](https://github.com/alymomdouh/leetcodeProblems/tree/master/1693-daily-leads-and-partners)
 21|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/find-followers-count/)|[1729. Find Followers Count](https://github.com/alymomdouh/leetcodeProblems/tree/master/1729-find-followers-count)|[having count distinct GROUPBY](https://github.com/alymomdouh/leetcodeProblems/tree/master/1729-find-followers-count)
 22|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)|[1141. User Activity for the Past 30 Days I](https://github.com/alymomdouh/leetcodeProblems/tree/master/1141-user-activity-for-the-past-30-days-i)|[GROUPBY count distinct date_add between](https://github.com/alymomdouh/leetcodeProblems/tree/master/1141-user-activity-for-the-past-30-days-i)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+23|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[586. Customer Placing the Largest Number of Orders](https://github.com/alymomdouh/leetcodeProblems/tree/master/0586-customer-placing-the-largest-number-of-orders)|[GROUPBY count having subquery](https://github.com/alymomdouh/leetcodeProblems/tree/master/0586-customer-placing-the-largest-number-of-orders)
+24|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/game-play-analysis-i/)|[511. Game Play Analysis I](https://github.com/alymomdouh/leetcodeProblems/tree/master/0511-game-play-analysis-i)|[GROUPBY min subquery](https://github.com/alymomdouh/leetcodeProblems/tree/master/0511-game-play-analysis-i)
+25|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/the-latest-login-in-2020/submissions/)|[1890. The Latest Login in 2020](https://github.com/alymomdouh/leetcodeProblems/tree/master/1890-the-latest-login-in-2020)|[GROUPBY max year subquery](https://github.com/alymomdouh/leetcodeProblems/tree/master/1890-the-latest-login-in-2020)
+26|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly_momdouh" height="30" width="40" />](https://leetcode.com/problems/find-total-time-spent-by-each-employee/submissions/)|[1741. Find Total Time Spent by Each Employee](https://github.com/alymomdouh/leetcodeProblems/tree/master/1741-find-total-time-spent-by-each-employee)|[GROUPBY SUM subquery](https://github.com/alymomdouh/leetcodeProblems/tree/master/1741-find-total-time-spent-by-each-employee)
