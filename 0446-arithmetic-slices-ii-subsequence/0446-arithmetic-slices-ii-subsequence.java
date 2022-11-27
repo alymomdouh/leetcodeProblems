@@ -1,8 +1,3 @@
-// class Solution {
-//     public int numberOfArithmeticSlices(int[] nums) {
-        
-//     }
-// }
 /*
 //Approach #1 Brute Force [Time Limit Exceeded]
 class Solution {
