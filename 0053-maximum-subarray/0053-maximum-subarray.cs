@@ -1,3 +1,29 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+public class Solution
+    {
+        public int MaxSubArray(int[] nums)
+        {
+            int size = nums.Length;
+            if (size == 1)
+                return nums[0];
+            int sum = int.MinValue;
+            int currentSum = 0;
+            for (int i = 0; i < size; i++)
+            {
+                currentSum += nums[i];
+                if (sum < currentSum)
+                    sum = currentSum;
+
+                if (currentSum < 0)
+                    currentSum = 0;
+            }
+            return sum;
+        }
+    } 
 /*
 // use presum method
 public class Solution {
@@ -31,6 +57,7 @@ public class Solution {
     }
 }
 */
+/*
 public class Solution {
     public int MaxSubArray(int[] nums) {
         int res = nums[0], f = nums[0];
@@ -42,3 +69,5 @@ public class Solution {
         return res;
     }
 }
+*/
+
