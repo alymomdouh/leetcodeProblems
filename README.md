@@ -2,8 +2,15 @@
 leetcode problems that solve in the website 
 
 ## There will be multi types of problems in leetcode:
-1. coding problems 
+1. coding problems (Data Structure)
 2. sql problems and this will be slove in sql server
+
+## Data Structure solutions:
+######  
+  n | Problem Website | Problem Solution | Idea
+--- |--- | --- | ---
+1|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="this prolem from leetCode" alt="aly_momdouh" height="20" width="20" style="border-radius: 50%;padding: 2px;border: 1px solid black;" /> <img align="center" title="this most asked interview Questions" src="https://user-images.githubusercontent.com/33808080/204126313-81ee91a2-507a-483b-9c7c-0aa89aefafed.png" alt="aly_momdouh" height="20" width="20" style="border-radius: 50%;padding: 2px;border: 1px solid black;" />](https://leetcode.com/problems/contains-duplicate/?envType=study-plan&id=data-structure-i)|[217. Contains Duplicate](https://github.com/alymomdouh/leetcodeProblems/tree/master/0217-contains-duplicate)|[HashSet Array Linq Distinct Contains](https://github.com/alymomdouh/leetcodeProblems/tree/master/0217-contains-duplicate) 
+2|[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="this prolem from leetCode" alt="aly_momdouh" height="20" width="20" style="border-radius: 50%;padding: 2px;border: 1px solid black;" /> <img align="center" title="this most asked interview Questions" src="https://user-images.githubusercontent.com/33808080/204126313-81ee91a2-507a-483b-9c7c-0aa89aefafed.png" alt="aly_momdouh" height="20" width="20" style="border-radius: 50%;padding: 2px;border: 1px solid black;" />](https://leetcode.com/problems/maximum-subarray/)|[53. Maximum Subarray](https://github.com/alymomdouh/leetcodeProblems/tree/master/0053-maximum-subarray)|[Array Min Max ](https://github.com/alymomdouh/leetcodeProblems/tree/master/0053-maximum-subarray) 
 
 ## sql solutions:
 ######  
