@@ -5,6 +5,7 @@ public class Solution {
     public Func<int[], bool> ContainsDuplicate = (nums) => (new HashSet<int>(nums)).Count != nums.Length;
 }
 */
+/*
 public class Solution {
     public bool ContainsDuplicate(int[] nums) {
         if (nums == null || nums.Length == 0) return false;
@@ -14,5 +15,15 @@ public class Solution {
             if (!set.Add(nums[i])) return true;
         }
         return false;
+    }
+}
+*/
+using System.Linq;
+
+public partial class Solution
+{
+    public bool ContainsDuplicate(int[] nums)
+    {
+        return nums.Distinct().Count() < nums.Length;
     }
 }
