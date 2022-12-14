@@ -43,7 +43,7 @@
 //         return res;
 //     }
 // }
-
+ 
 // two stack
 public class Solution {
     public IList<int> PostorderTraversal(TreeNode root) {
@@ -72,3 +72,4 @@ public class Solution {
         return res;
     }
 }
+    
