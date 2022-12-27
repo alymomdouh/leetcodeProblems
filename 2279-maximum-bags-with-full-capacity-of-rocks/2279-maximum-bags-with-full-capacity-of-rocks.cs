@@ -1,3 +1,4 @@
+/*
 public class Solution {
     public int MaximumBags(int[] capacity, int[] rocks, int additionalRocks) {
         var pq = new PriorityQueue<int, int>();
@@ -27,4 +28,30 @@ public class Solution {
         return count;
     }
 }
+*/
+public class Solution {
+    public int MaximumBags(int[] capacity, int[] rocks, int additionalRocks) {
+    var cr = Enumerable
+        .Range(0, capacity.Length)
+        .Select(i => (c: capacity[i], r: rocks[i]))
+        .OrderBy(e => e.c - e.r)
+        .ToArray();
 
+      var ans = 0;
+
+      for (var i = 0; i < capacity.Length; i++)
+      {
+        if (cr[i].c - cr[i].r <= additionalRocks)
+        {
+          ans++;
+          additionalRocks -= (cr[i].c - cr[i].r);
+        }
+        else
+        {
+          break;
+        }
+      }
+
+      return ans;
+}
+}
