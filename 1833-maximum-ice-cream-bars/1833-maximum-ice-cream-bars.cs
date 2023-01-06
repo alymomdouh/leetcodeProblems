@@ -1,3 +1,4 @@
+/*
 public class Solution {
    public int MaxIceCream(int[] costs, int coins)
     {
@@ -44,3 +45,33 @@ public class Solution {
         return count; 
     }
 }
+*/
+
+public class Solution
+  {
+    public int MaxIceCream(int[] costs, int coins)
+    {
+      Array.Sort(costs);
+
+      var ans = 0;
+      var index = 0;
+
+      while (coins > 0)
+      {
+        if (index == costs.Length)
+          break;
+
+        if (costs[index] <= coins)
+        {
+          ans++;
+          coins -= costs[index];
+          index++;
+          continue;
+        }
+
+        break;
+      }
+
+      return ans;
+    }
+  }
